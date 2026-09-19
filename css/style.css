@@ -1,0 +1,21 @@
+body
+{
+    color: white;
+    background-color: black;
+}
+.centered_header
+{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.centered_text
+{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+.centered_button
+{
+    text-align: center;
+}
